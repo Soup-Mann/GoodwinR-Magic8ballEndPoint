@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
+    "C:\\Users\\harry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\APIMother\\APiHomeWork\\GoodwinR#Magic8ball\\GoodwinR#Magic8ball.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GoodwinR-Magic8ballEndPoint\\GoodwinR#Magic8ball.csproj",
       "projectName": "GoodwinR#Magic8ball",
-      "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\APIMother\\APiHomeWork\\GoodwinR#Magic8ball\\GoodwinR#Magic8ball.csproj",
-      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\APIMother\\APiHomeWork\\GoodwinR#Magic8ball\\obj\\",
+      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GoodwinR-Magic8ballEndPoint\\GoodwinR#Magic8ball.csproj",
+      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GoodwinR-Magic8ballEndPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -13,7 +13,7 @@ namespace GoodwinR_Magic8ball.Controllers
     {
         [HttpGet]
         [Route("8Ball")]
-        public string shake(string ball){
+        public string shake(){
             Random num = new Random();
             int den = num.Next(0,8);
             int l = num.Next(0,3);
